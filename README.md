@@ -1,13 +1,39 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Murphy Nile
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+This archive brings together works, texts, and references by Murphy Nile.
 
-Oh! I haven't introduced myself...
+这是 Murphy Nile 的作品与文本档案。
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+## Selected Works
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+1. [CONTROL CLUB](works/control-club.md)
+2. [Control: The Uptime Protocol](works/control-the-uptime-protocol.md)
+3. [Cyber Matrix Prison](works/cyber-matrix-prison.md)
+4. [Hum Doom](works/hum-doom.md)
+5. [Image Against Oppression](works/image-against-oppression.md)
 
-I'll meet you over there, can't wait to get started!
+## Archive Index
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+- [Works](works/README.md)
+- [Texts](texts/README.md)
+- [Press](press/README.md)
+- [Research](research/README.md)
+- [Exhibitions](exhibitions/README.md)
+
+## Contact
+
+- Website: <https://www.murphynile.com/>
+- Instagram: <https://www.instagram.com/murphynile/>
+- Vimeo: <https://vimeo.com/user137702801>
+- YouTube: <https://www.youtube.com/@murphynile1198>
+- LinkedIn: <https://www.linkedin.com/in/murphynile>
+- Email: <zhouziling@live.cn>
+
+## 联系方式
+
+- 网站：<https://www.murphynile.com/>
+- Instagram：<https://www.instagram.com/murphynile/>
+- Vimeo：<https://vimeo.com/user137702801>
+- YouTube：<https://www.youtube.com/@murphynile1198>
+- LinkedIn：<https://www.linkedin.com/in/murphynile>
+- 邮箱：<zhouziling@live.cn>
