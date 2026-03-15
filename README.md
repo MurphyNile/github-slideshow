@@ -10,11 +10,11 @@ This archive brings together selected works, texts, research, and references.
 
 ## Selected Works
 
-1. [CONTROL CLUB](works/control-club.md)
-2. [Control: The Uptime Protocol](works/control-the-uptime-protocol.md)
-3. [Cyber Matrix Prison](works/cyber-matrix-prison.md)
-4. [Hum Doom](works/hum-doom.md)
-5. [Image Against Oppression](works/image-against-oppression.md)
+1. [CONTROL CLUB 控制俱樂部](works/control-club.md)
+2. [Control: The Uptime Protocol 控制：續航協議](works/control-the-uptime-protocol.md)
+3. [Cyber Matrix Prison 賽博矩陣監獄](works/cyber-matrix-prison.md)
+4. [Hum Doom 混沌](works/hum-doom.md)
+5. [Image Against Oppression 圖像對抗暴力](works/image-against-oppression.md)
 
 ## Archive Index
 
@@ -26,8 +26,8 @@ This archive brings together selected works, texts, research, and references.
 
 ## Contact / 联系方式
 
-- Website / 网站: <https://www.murphynile.com/>
-- Instagram: <https://www.instagram.com/murphynile/>
+- Website / 网站: <https://www.murphynile.com>
+- Instagram: <https://www.instagram.com/murphynile>
 - Vimeo: <https://vimeo.com/user137702801>
 - YouTube: <https://www.youtube.com/@murphynile1198>
 - LinkedIn: <https://www.linkedin.com/in/murphynile>
