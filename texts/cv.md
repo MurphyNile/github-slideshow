@@ -44,8 +44,8 @@
 - 2026 Milan Machinima Festival，IULM University，米兰
 - 2025 Independent Days International Film Festival，卡尔斯鲁厄
 - 2024 VAEFF，Cinema Village，纽约
-- 2023 Technoetic Concert - From the Canyons to the Stars，凯迪拉克·上海音乐厅
-- 2022 Flowing Light 第一届国际光艺术节，重庆
+- 2023 超律体音乐会 Technoetic Concert - 从峡谷到星空，凯迪拉克·上海音乐厅
+- 2022 Flowing Light 首届国际光影艺术节，重庆
 - 2021 2^6 Technoetic Arts Exhibition - Audio Visual Live Performance，西岸美术馆，上海
 
 ## Talks
@@ -55,20 +55,10 @@
 
 ## 讲座
 
-- 演讲嘉宾，Unreal Fest 2025（Epic Games），上海
-- 演讲嘉宾，ISEA Symposia 2026，迪拜
+- 演讲嘉宾，Unreal Fest 虚幻引擎开发者大会 2025（Epic Games），上海
+- 演讲嘉宾，ISEA Symposia 电子/新兴艺术研讨会 2026，迪拜
 
-## Related Links
-
-- <https://sites.gold.ac.uk/ma-mfa-computationalarts/murphy-nile-2/>
-- <https://www.synthux.academy/project/hum-doom>
-- <https://www.glamcult.com/visual-essay/3021-camping/>
-- <https://mp.weixin.qq.com/s/vxnZdt90FQ_F35oqiv7GFg>
-- <https://lumenprize.org/2025-experiential-award-finalists/murphy-nile-ziling-zhou>
-- <https://www.altiba9.com/artist-interviews/murphy-nile-ziling-zhou-installation-transmedia-technology-digital-landscapes>
-- <https://www.iulm.it/en/news-ed-eventi/news/mmf-2026-torna-iulm>
-
-## 相关链接
+## Related Links 相关链接
 
 - <https://sites.gold.ac.uk/ma-mfa-computationalarts/murphy-nile-2/>
 - <https://www.synthux.academy/project/hum-doom>
