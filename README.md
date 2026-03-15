@@ -1,13 +1,34 @@
-# Your GitHub Learning Lab Repository for Introducing GitHub
+# Murphy Nile
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+Murphy Nile is a transmedia artist working across real-time 3D environments, machinima, and interactive audiovisual practice.
 
-Oh! I haven't introduced myself...
+Murphy Nile 是一位跨媒介艺术家，工作横跨实时 3D 环境、machinima 与互动视听实践。
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+This archive brings together selected works, texts, research, and references.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+这里汇集了 Murphy Nile 的代表作品、文本、研究与相关资料。
 
-I'll meet you over there, can't wait to get started!
+## Selected Works
 
-This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+1. [CONTROL CLUB](works/control-club.md)
+2. [Control: The Uptime Protocol](works/control-the-uptime-protocol.md)
+3. [Cyber Matrix Prison](works/cyber-matrix-prison.md)
+4. [Hum Doom](works/hum-doom.md)
+5. [Image Against Oppression](works/image-against-oppression.md)
+
+## Archive Index
+
+- [Works / 作品](works/README.md)
+- [Texts / 文本](texts/README.md)
+- [Press / 媒体](press/README.md)
+- [Research / 研究](research/README.md)
+- [Exhibitions / 展览与放映](exhibitions/README.md)
+
+## Contact / 联系方式
+
+- Website / 网站: <https://www.murphynile.com/>
+- Instagram: <https://www.instagram.com/murphynile/>
+- Vimeo: <https://vimeo.com/user137702801>
+- YouTube: <https://www.youtube.com/@murphynile1198>
+- LinkedIn: <https://www.linkedin.com/in/murphynile>
+- Email / 邮箱: <zhouziling@live.cn>
