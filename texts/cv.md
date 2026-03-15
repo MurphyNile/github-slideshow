@@ -8,7 +8,7 @@
 ## 教育经历
 
 - 2024 计算艺术硕士，伦敦大学金史密斯学院
-- 2023 科技灵知艺术学士，上海视觉艺术学院 Roy Ascott 科技灵知艺术工作室
+- 2023 科智艺术学士，上海视觉艺术学院 Roy Ascott 科智艺术工作室
 
 ## Group Exhibitions
 
@@ -44,8 +44,8 @@
 - 2026 Milan Machinima Festival，IULM University，米兰
 - 2025 Independent Days International Film Festival，卡尔斯鲁厄
 - 2024 VAEFF，Cinema Village，纽约
-- 2023 Technoetic Concert - From the Canyons to the Stars，凯迪拉克·上海音乐厅
-- 2022 Flowing Light 第一届国际光艺术节，重庆
+- 2023 Technoetic Concert - 超律体-从峡谷到星空-跨媒体音乐会，凯迪拉克·上海音乐厅
+- 2022 Flowing Light 首届国际光影艺术节，重庆
 - 2021 2^6 Technoetic Arts Exhibition - Audio Visual Live Performance，西岸美术馆，上海
 
 ## Talks
@@ -55,8 +55,8 @@
 
 ## 讲座
 
-- 演讲嘉宾，Unreal Fest 2025（Epic Games），上海
-- 演讲嘉宾，ISEA Symposia 2026，迪拜
+- 演讲嘉宾，Unreal Fest 虚幻引擎开发者大会 2025（Epic Games），上海
+- 演讲嘉宾，ISEA Symposia 电子/新兴艺术研讨会 2026，迪拜
 
 ## Related Links
 
