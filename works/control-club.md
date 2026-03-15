@@ -10,24 +10,24 @@
 
 ## Description (EN)
 
-CONTROL CLUB is a real-time CGI animation work staged as immersive audiovisual theatre, driven by a game engine and presented inside a circular matrix screen space. The audience enters standing, inside a world of digital landscapes where information highways and algorithmic factories sit side by side, reflecting everyday life as bright, smooth, and constantly running.
+CONTROL CLUB is a real-time CGI animation staged as immersive audiovisual theatre inside a circular matrix screen space. Built with a game engine, the work places the audience in a standing environment of digital landscapes, where information highways and algorithmic factories sit side by side.
 
-Here, control and desire coexist. Technology is not only the stage image. It acts like a quiet order that reshapes how people move, where they look, and how decisions take form. Bodies and consciousness are drawn into data flows, becoming easier to route and to shape.
+The project follows a simple tension: control and desire operating at once. Technology is not only an image on stage. It also acts as an ordering force that shapes movement, gaze, and decision-making. Bodies and attention are drawn into data flow and guided through pre-structured paths.
 
-The work treats the engine as both metaphor and working model. It translates movement and feedback into cues, so watching is no longer passive. Screen switching and rotation turn viewing into a bodily act, pulling the audience to turn, reorient, and step closer in search of details. Rather than a single frontal frame, CONTROL CLUB expands animation into a circular screen architecture, where switching, rhythm, and embodied reorientation act like editing.
+Screen switching and rotation turn viewing into a physical task. Rather than watching a single frontal frame, the audience keeps reorienting within a circular architecture. Rhythm, switching, and bodily repositioning function as a form of editing.
 
-CONTROL CLUB uses engagement as a trap. Through pacing, dense imagery, and immediate gratification, it creates a sealed yet fluid immersion that is difficult to step outside of. Viewers are pulled by shifting focal points and continually repositioned as the screen space changes. Even when movement feels self-directed, bodies, gaze, and attention are held on predetermined paths.
+CONTROL CLUB uses immersion as both method and subject. Through pace, density, and immediate rewards, it builds an environment that feels fluid but difficult to step out of. Even when movement feels self-directed, attention is continuously routed.
 
-Simulation and modeling are repurposed to echo a softer form of discipline: dazzling yet hollow spectacle, quantifiable goals, and carefully timed rewards. Within this order, what stands out most is not a prohibition, but a gap: the absence of an exit toward autonomy. CONTROL CLUB stages that absence as its most concrete fact, asking the audience to feel, between pleasure and discomfort, how guidance and shaping can happen quietly.
+The work points to a softer discipline: spectacle, measurable targets, and timed feedback. What becomes most visible is not a direct prohibition, but the lack of an exit toward autonomy.
 
 ## 项目说明（中文）
 
-CONTROL CLUB 是一件以实时 CGI 驱动的扩展动画作品，以沉浸式视听剧场形式呈现，并被置入环形矩阵屏幕空间中。观众以站立方式进入一个数字景观世界：信息高速路与算法工厂并置，映照出日常生活中明亮、顺滑且持续运行的表面状态。
+CONTROL CLUB 是一件实时 CGI 扩展动画作品，以沉浸式视听剧场形式在环形矩阵屏幕空间中呈现。作品由游戏引擎驱动，观众以站立方式进入数字景观：信息高速路与算法工厂并置出现。
 
-在这里，控制与欲望并存。技术不只是舞台图像，它更像一种安静的秩序，持续重塑人的移动方式、观看方向与决策生成。身体与意识被牵引进数据流，变得更易于被导向与塑形。
+作品围绕一个核心张力展开：控制与欲望同时运作。技术不只是舞台图像，也是一种组织力量，持续影响移动、视线与决策。身体与注意力被牵引进数据流，并被导入预设路径。
 
-作品将引擎同时作为隐喻与工作模型。它把运动与反馈转译为观看线索，使“观看”不再被动。屏幕切换与旋转将观看转化为身体行为，促使观众不断转身、重新定位并靠近以捕捉细节。相较于单一正面画框，CONTROL CLUB 将动画扩展为环形屏幕建筑，其中切换、节奏与身体重定位本身构成了类似剪辑的机制。
+屏幕切换与旋转使观看成为身体行为。观众不再面对单一正面画框，而是在环形结构中不断重新定位。节奏、切换与身体重定位在此构成一种剪辑机制。
 
-CONTROL CLUB 将“参与”设为一种陷阱。通过节奏控制、图像密度与即时满足，它构建出封闭却流动的沉浸状态，使人难以抽离。观众被不断变化的焦点吸引，并在屏幕空间变化中持续被重新安置。即使移动看似自主，身体、视线与注意力仍被维持在预设路径上。
+CONTROL CLUB 将沉浸既作为方法，也作为主题。通过节奏、密度与即时奖赏，它构建出流动却不易退出的环境。即使移动看似自主，注意力仍在持续被导引。
 
-模拟与建模在此被重新调用，以回应一种更柔性的规训形式：炫目却空洞的景观、可量化的目标与精密计时的奖赏。在这种秩序中，最突出的并非禁令本身，而是一个缺口——通向自主性的出口缺席。CONTROL CLUB 将这种缺席作为最具体的现实呈现出来，使观众在愉悦与不适之间，感受引导与塑形如何以静默方式发生。
+作品指向一种更柔性的规训形式：景观、可量化目标与计时反馈。最明显的并非直接禁令，而是通向自主性的出口缺席。

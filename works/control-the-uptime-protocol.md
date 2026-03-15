@@ -11,16 +11,16 @@
 
 ## Description (EN)
 
-Control: The Uptime Protocol is a machinima trilogy made in Unreal Engine. It translates the system logic of contemporary life into a game-like way of seeing: progress as acceleration, choice as domestication, and tools as enrollment into computation. The engine is treated as a lived environment rather than a neutral tool, a place where prompts, metrics, interfaces, and rewards already organize how people move, look, and decide.
+Control: The Uptime Protocol is a machinima trilogy made in Unreal Engine. It extends Control Club within the same virtual-digital world and translates everyday system logic into a game-like visual language.
 
-The trilogy unfolds in three linked movements. It begins with speed: driving, streaming, scrolling, and the smooth glide of information, where “continue” stops feeling like a choice and starts functioning as a reflex. It then shifts into competitive loops and gambling-like feedback, where small wins tune desire and losses arrive late, diluted, and repeatable. In the final movement, control no longer appears as an external rule. Prediction replaces prohibition, openness replaces boundaries, and attention and bodies are treated as callable parts that keep the system running.
+The three movements move from speed to competition to prediction. Driving, streaming, and scrolling establish momentum, where pressing “continue” starts to feel reflexive. Competitive loops and gambling-like feedback follow, with small gains arriving quickly and losses delayed or diluted. In the final movement, control no longer appears as an external rule. Prediction replaces prohibition, and bodies and attention are handled as operational components.
 
-Filmed like a documentary of a machine, the camera passes are steady and purposeful, the editing is calibrated to interface rhythm, and the sound is built from friction: alerts, hums, accelerations, and the quiet pressure of room tone. What matters is the threshold where a tool stops being something we use and becomes something that uses us. The repeated press of “continue” is the smallest action and the core metaphor: a consent rarely spoken, yet endlessly performed.
+The camera language is steady and functional, like observing a machine at work. Editing follows interface rhythm, and the soundtrack is built from alerts, hums, acceleration, and room pressure. The work focuses on a threshold: when a tool stops being something we use and becomes something that uses us.
 
 ## 项目说明（中文）
 
-Control: The Uptime Protocol 是一部在 Unreal Engine 中制作的机械影像三部曲。作品将当代生活的系统逻辑转译为一种“游戏化观看”方式：进步被感知为加速，选择被驯化为流程，工具成为把个体纳入计算系统的接口。引擎在此并非中立媒介，而是被体验与栖居的环境；提示、指标、界面与奖赏早已组织了人的移动、凝视与判断。
+Control: The Uptime Protocol 是一部在 Unreal Engine 中制作的机械影像三部曲。作品作为 Control Club 的延展，在同一虚拟数字世界中展开，并将日常系统逻辑转译为游戏化视觉语言。
 
-三部曲由三个连续段落展开。第一段从速度切入：驾驶、串流、滚动与信息的平滑滑行，使“继续”从主动选择逐渐变为条件反射。第二段转入竞争循环与类赌博反馈：小胜利不断调校欲望，而损失以延迟、稀释、可重复的方式到来。第三段中，控制不再以外部规则出现；预测替代禁令，开放替代边界，注意力与身体被当作可调用部件，以维持系统持续运转。
+三段结构从速度推进到竞争，再到预测。驾驶、串流与滚动先建立惯性，“继续”逐渐由选择变为反射。随后进入竞争循环与类赌博反馈：小收益快速到来，损失则延迟或被稀释。最后一段中，控制不再表现为外部规则，预测替代禁令，身体与注意力被当作可调用部件。
 
-影像以“机器纪录片”的方式拍摄：机位推进稳定而有目的，剪辑节奏与界面律动对齐，声音由摩擦关系构成——提示音、嗡鸣、加速以及室内底噪所形成的静压。作品关注的关键阈值在于：工具何时不再是“被我们使用之物”，而开始成为“使用我们的结构”。反复按下“继续”是最微小的动作，也是核心隐喻：一种很少被言说却被无尽执行的同意。
+镜头语言稳定且功能化，接近对一台机器的观察。剪辑与界面节奏对齐，声音由提示音、嗡鸣、加速与空间压强构成。作品关注一个阈值：工具何时从“被我们使用”转为“开始使用我们”。
