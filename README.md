@@ -1,8 +1,12 @@
 # Murphy Nile
 
-This archive brings together works, texts, and references by Murphy Nile.
+Murphy Nile is a transmedia artist working across real-time 3D environments, machinima, and interactive audiovisual practice.
 
-这是 Murphy Nile 的作品与文本档案。
+Murphy Nile 是一位跨媒介艺术家，工作横跨实时 3D 环境、machinima 与互动视听实践。
+
+This archive brings together selected works, texts, research, and references.
+
+这里汇集了 Murphy Nile 的代表作品、文本、研究与相关资料。
 
 ## Selected Works
 
@@ -14,26 +18,17 @@ This archive brings together works, texts, and references by Murphy Nile.
 
 ## Archive Index
 
-- [Works](works/README.md)
-- [Texts](texts/README.md)
-- [Press](press/README.md)
-- [Research](research/README.md)
-- [Exhibitions](exhibitions/README.md)
+- [Works / 作品](works/README.md)
+- [Texts / 文本](texts/README.md)
+- [Press / 媒体](press/README.md)
+- [Research / 研究](research/README.md)
+- [Exhibitions / 展览与放映](exhibitions/README.md)
 
-## Contact
+## Contact / 联系方式
 
-- Website: <https://www.murphynile.com/>
+- Website / 网站: <https://www.murphynile.com/>
 - Instagram: <https://www.instagram.com/murphynile/>
 - Vimeo: <https://vimeo.com/user137702801>
 - YouTube: <https://www.youtube.com/@murphynile1198>
 - LinkedIn: <https://www.linkedin.com/in/murphynile>
-- Email: <zhouziling@live.cn>
-
-## 联系方式
-
-- 网站：<https://www.murphynile.com/>
-- Instagram：<https://www.instagram.com/murphynile/>
-- Vimeo：<https://vimeo.com/user137702801>
-- YouTube：<https://www.youtube.com/@murphynile1198>
-- LinkedIn：<https://www.linkedin.com/in/murphynile>
-- 邮箱：<zhouziling@live.cn>
+- Email / 邮箱: <zhouziling@live.cn>
